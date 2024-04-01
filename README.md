@@ -14,7 +14,7 @@ This project creates a simple image puzzle game where an image is uploaded and t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/image-puzzle.git
+    git clone (https://github.com/abhinavbibek/Custom-picture-puzzle-maker)
     ```
 
 2. Install dependencies:
